@@ -11,7 +11,7 @@
 
 ### Reach me by email at: rashikasuresh5758@gmail.com :love_letter:
 
-### Happy to get connected through linkedin: https://www.linkedin.com/in/rashika-suresh-147bb5184/ :speech_balloon::blush:
+### Happy to get connected through linkedin: https://www.linkedin.com/in/rashika-suresh/ :speech_balloon::blush:
 
 <!--
 **Rashika258/Rashika258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
