@@ -1,7 +1,7 @@
 
-# Hii..... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hii <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Rashika Suresh here 😃,
+Rashika Suresh here, 😃
 
 ## Interested in knowing me? 💐
 
