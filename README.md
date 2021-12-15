@@ -1,29 +1,50 @@
 
-## Hiii, Rashika Suresh here :girl: :heart:
+# Hii..... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### Ask me about - Java, Javascript, Python :innocent:
+Rashika Suresh here 😃,
 
-### Currently exploring - Full stack web development :point_left:
+## Interested in knowing me? 💐
 
-### Pursuing my Bachelor's degree in Computer Science :woman: :thought_balloon:
+- 👩‍🎓 Pursuing Bachelor's Degree in Computer Science
+- 👩‍💻 Learning Full Stack Web Development
+- ❤️ Passionate about UI-UX Design
+- 🎯 Goal : MERN Developer
+- 💌 Fun Facts : 
+    - Love being Foodie 😋
+    - Enjoy Riding 🚴‍♀️
+   
+## My Weapons ❤️‍🔥
 
-### Hunting - Full stack developer roles :girl: :heartpulse: :raised_hands:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashika258&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
 
-### Reach to me at: rashikasuresh5758@gmail.com :love_letter:
+## Other Shields 🛡️🔥
+ * C/C++
+ * Advanced Java
+ * Python
+ * React
+ * AI and ML
+ 
+ <br />
 
-### Let's talk: https://www.linkedin.com/in/rashika-suresh/ :speech_balloon::blush:
+## Github Status 🏆
 
-<!--
-**Rashika258/Rashika258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img  src="https://github-readme-stats.vercel.app/api?username=Rashika258&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Rashika258&theme=react" width="48%" >
+<br>
 
-Here are some ideas to get you started:
+![github graph](https://activity-graph.herokuapp.com/graph?username=Rashika258&theme=react-dark)
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">Let's Connect?</p>
+
+<p align="center">
+ 
+<a href="https://twitter.com/Rashika16735509">
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
+
+<a href="https://www.linkedin.com/in/rashika-suresh/">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
+    
+</p>
+
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Rashika258.Rashika258" alt="TidbitsJS :: Visitor's Count" /></p>
