@@ -22,8 +22,6 @@ Skills: Reactjs / Mongo / Nodejs / Expressjs / Swift / Javascript / Java / Pytho
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashika258&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rashika258)  
-
 ![GitHub metrics](https://metrics.lecoq.io/Rashika258)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Rashika258)  
