@@ -1,50 +1,31 @@
 
-# Hii <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there 👋, My name is Rashika Suresh
+#### Full Stack Developer
+Completed my Bachelor's from BNM Institute of Technology. Currently working as Software Development Engineer
 
-Rashika Suresh here, 😃
+Skills: Reactjs / Mongo / Nodejs / Expressjs / Swift / Javascript / Java / Python / Css / Html
 
-## Interested in knowing me? 💐
+- 🔭 I’m currently working on my portfolio 
+- 🌱 I’m currently learning Swift and IOS Development 
+- 👯 I’m looking to collaborate on Open Source Projects 
+- 💬 Ask me about **React, Javascript** 
+- 📫 How to reach me: rashikasuresh5758@gmail.com 
 
-- 👩‍🎓 Pursuing Bachelor's Degree in Computer Science
-- 👩‍💻 Learning Full Stack Web Development
-- ❤️ Passionate about UI-UX Design
-- 🎯 Goal : MERN Developer
-- 💌 Fun Facts : 
-    - Love being Foodie 😋
-    - Enjoy Riding 🚴‍♀️
-   
-## My Weapons ❤️‍🔥
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashika258&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rashika258)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Rashika258/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Rashika16735509)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCoWakCOS0SppEJ1ryyCE5Ig)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](Yet to come)  
 
-## Other Shields 🛡️🔥
- * C/C++
- * Advanced Java
- * Python
- * React
- * AI and ML
- 
- <br />
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-## Github Status 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rashika258)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Rashika258&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Rashika258&theme=react" width="48%" >
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashika258)](https://github.com/anuraghazra/github-readme-stats)
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=Rashika258&theme=react-dark)
-<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashika258&show_icons=true&count_private=true)  
 
-<p align="center">Let's Connect?</p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rashika258)  
 
-<p align="center">
- 
-<a href="https://twitter.com/Rashika16735509">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
+![GitHub metrics](https://metrics.lecoq.io/Rashika258)  
 
-<a href="https://www.linkedin.com/in/rashika-suresh/">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
-    
-</p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Rashika258)  
 
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Rashika258.Rashika258" alt="TidbitsJS :: Visitor's Count" /></p>
+![Profile views](https://gpvc.arturio.dev/Rashika258)  
