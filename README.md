@@ -1,14 +1,40 @@
 
 ### Hi there 👋, My name is Rashika Suresh
 #### Full Stack Developer
-Completed my Bachelor's from BNM Institute of Technology. Currently working as Software Development Engineer
+Full Stack Developer | 1 Year Pro, 2 Years Freelance | Crafting Digital Excellence
 
-Skills: Reactjs / Mongo / Nodejs / Expressjs / Swift / Javascript / Java / Python / Css / Html
+I'm a passionate full-stack developer with a blend of professional expertise and freelancing experience totaling 3 years. My GitHub is a canvas showcasing the journey of my development skills:
 
-- 🔭 I’m currently working on my portfolio 
-- 🌱 I’m currently learning Swift and IOS Development 
+My Journey So Far:
+
+1 year of professional experience, contributing to teams and delivering web solutions.
+2 years of freelancing, working on diverse projects for clients worldwide.
+Tech Stack Proficiency:
+
+Front-end: I design elegant user interfaces using HTML, CSS, and JavaScript.
+Back-end: Proficient in Node.js and Python to build server-side logic.
+Database: SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) data management.
+Projects That Define Me:
+
+My repositories hold the essence of my journey, from web applications to custom solutions.
+Each project carries the lessons learned and the creativity invested during my freelancing escapades.
+Learning Never Stops:
+
+As a believer in continuous improvement, I'm committed to ongoing learning.
+The evolution of my GitHub showcases my quest for knowledge and growth.
+Collaboration-Ready:
+
+With 3 years of combined experience, I'm open to collaboration and keen to contribute to exciting projects.
+Let's join forces, leverage our skills, and make magic happen!
+The Road Ahead:
+
+The future of web development excites me, and I'm ready to explore its endless possibilities.
+Connect with me, and together, we'll create web experiences that leave a lasting impact.
+
+- 🔭 I’m currently working on projects using NextJs and Typescript. 
+- 🌱 I’m currently learning on React Native 
 - 👯 I’m looking to collaborate on Open Source Projects 
-- 💬 Ask me about **React, Javascript** 
+- 💬 Ask me about **Anything** 
 - 📫 How to reach me: rashikasuresh5758@gmail.com 
 
 
