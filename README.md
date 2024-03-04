@@ -1,7 +1,7 @@
 
 ### Hi there 👋, My name is Rashika Suresh
 #### Full Stack Developer
-Full Stack Developer | 1 Year Pro, 2 Years Freelance | Crafting Digital Excellence
+Full Stack Developer | 2 Years Pro, 2 Years Freelance | Crafting Digital Excellence
 
 I'm a passionate full-stack developer with a blend of professional expertise and freelancing experience totaling 3 years. My GitHub is a canvas showcasing the journey of my development skills:
 
@@ -24,7 +24,7 @@ As a believer in continuous improvement, I'm committed to ongoing learning.
 The evolution of my GitHub showcases my quest for knowledge and growth.
 Collaboration-Ready:
 
-With 3 years of combined experience, I'm open to collaboration and keen to contribute to exciting projects.
+With 4 years of combined experience, I'm open to collaboration and keen to contribute to exciting projects.
 Let's join forces, leverage our skills, and make magic happen!
 The Road Ahead:
 
@@ -32,7 +32,6 @@ The future of web development excites me, and I'm ready to explore its endless p
 Connect with me, and together, we'll create web experiences that leave a lasting impact.
 
 - 🔭 I’m currently working on projects using NextJs and Typescript. 
-- 🌱 I’m currently learning on React Native 
 - 👯 I’m looking to collaborate on Open Source Projects 
 - 💬 Ask me about **Anything** 
 - 📫 How to reach me: rashikasuresh5758@gmail.com 
